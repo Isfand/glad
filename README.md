@@ -1,9 +1,7 @@
 # Glad generated from https://glad.dav1d.de/
 
-Language: C/C++
+## Contains a CMakeLists.txt file inside for CMake project integration
 
-Specification: OpenGL
-
-Profile: Core
-
-API: gl VERSION 4.6
+| Language      | Specification |Profile|      API      |
+| ------------- |:-------------:| -----:| -------------:|
+| C/C++         | OpenGL        |  Core | gl VERSION 4.6|
